@@ -1,5 +1,7 @@
 ### :octocat: Git Your Practice On!
 
+'''oh my days!!!!!!'''
+
 * Git Reference [https://help.github.com/categories/github-pages-basics/](https://help.github.com/categories/github-pages-basics/)
 * Pro Git Online Book [http://git-scm.com/book](http://git-scm.com/book)
 * Git Ready [http://gitready.com](http://gitready.com)
@@ -61,7 +63,7 @@ Start tracking new files and also stage changes to already tracked files
 ```bash
 git status -s
 ```
-This will display what files have been removed, changed or modified. 
+This will display what files have been removed, changed or modified.
 
 * (M)  - modified
 * (A)  - added
@@ -132,7 +134,7 @@ Be warned: it's considered bad practice to rebase commits which you have already
 ### Adding
 ```bash
 git add <list of files>
-``` 
+```
 (i.e. ``git add readme.md license.txt``. Can be multiples)
 
 ```bash
@@ -251,7 +253,7 @@ Fetches a remote branch not available locally [also reference issue #7](https://
 ### Pushing &amp; Pulling
 ```bash
 git push -u origin master (remote repo name[origin], local branch name[master])
-``` 
+```
 Lets you just run git push later on without specifying name and branch
 
 ```bash
@@ -308,7 +310,7 @@ Color codes the commit SHA
 git log --pretty=oneline
 ```
 
-or 
+or
 
 ```bash
 git log --graph --oneline --all
@@ -343,3 +345,6 @@ git help
 ```bash
 git help <command>
 ```
+
+##whagwan
+= what is happening chaps
